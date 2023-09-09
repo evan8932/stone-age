@@ -11,8 +11,6 @@ StoneAge 2.5 Server Source Code｜石器时代 2.5 服务端代码
 
 需要安装生成必要的 `mysql` 服务器( `libmysqlclient-dev` ).
 
-下载的客户端默认连接我的石器时代服务器, 欢迎上来先逛逛, 估计不少同学都有石器情缘.  
-
 目的仅仅是研究服务端开发技术, 不涉及商业盈利, 欢迎有兴趣的同学加入.
 
 ![](http://img1.mydrivers.com/img/20160205/s_6b4d567fd95941759db8dc2b884c1975.jpg)
